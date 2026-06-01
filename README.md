@@ -33,7 +33,4 @@ ADF → Azure SQL → Power BI
 
 * Daily pipeline execution using ADF
 * Scheduled refresh in Power BI
-
-## 👨‍💻 Author
-
-Anuj Kumar 
+  
